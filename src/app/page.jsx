@@ -6,6 +6,7 @@
       <Link href="/blog">Blog</Link>
       <Link href="/dashboard">Dashboard</Link>
       <Link href="/profile">Profile</Link>
+      <Link href="/product">Products</Link>
     </div>
   )
 }

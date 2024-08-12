@@ -1,0 +1,14 @@
+.backgroundGreen{
+    background-color: tomato;
+    color: greenyellow;
+    margin: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.backgroundBlack{
+    /* background-color: tomato; */
+    color: black;
+    margin: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
